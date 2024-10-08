@@ -1,0 +1,1 @@
+from pydicom import dcmreadfrom tkinter import filedialogfrom tkinter import *root = Tk()root.withdraw()file_name = "C:/Users/Janek Vodicka/Downloads/DICOM_01/YJQSEUMS/I8280000"folder = filedialog.askdirectory()print("Selected folder:", folder)ds = dcmread(file_name)for element in ds:    print(element)
