@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf1d07b7-ad80-4f3e-9e0a-0cb586e5f908" name="Changes" comment="Update" />
+    <list default="true" id="cf1d07b7-ad80-4f3e-9e0a-0cb586e5f908" name="Changes" comment="update interpreter on PC">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728991329304</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update interpreter on PC">
+      <option name="closed" value="true" />
+      <created>1747726162272</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747726162272</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +139,7 @@
     <MESSAGE value="Init commit" />
     <MESSAGE value="Adding askopenfilename" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="update interpreter on PC" />
+    <option name="LAST_COMMIT_MESSAGE" value="update interpreter on PC" />
   </component>
 </project>

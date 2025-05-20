@@ -41,5 +41,7 @@ print("Age:", age_value)
 print("Birthday:", birthday_value)
 print("Sex:", sex_value)
 
+# Další možnosti
+
 """for element in ds:
     print(element)"""
